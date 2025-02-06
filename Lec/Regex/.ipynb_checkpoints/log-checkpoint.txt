@@ -1,0 +1,3 @@
+['169.237.46.168 - - [26/Jan/2014:10:47:58 -0800] "GET /csci4165/Spring04/ HTTP/1.1" 200 2585 "http://singhd1.sfasu.edu/courses/"\n',
+ '193.205.203.3 - - [2/Feb/2005:17:23:6 -0800] "GET /csci4165/Notes/dim.html HTTP/1.0" 404 302 "http://abowden.sfasu.edu/csci4165/Notes/session.html"\n',
+ '169.237.46.240 - "" [3/Feb/2006:10:18:37 -0800] "GET /csci4165/homework/Solutions/hw1Sol.pdf HTTP/1.1"\n']
